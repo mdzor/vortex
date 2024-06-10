@@ -8,6 +8,8 @@ _ZK-SNARK Mixer Based on UniV4 Hook._
 
 Vortex Protocol uses [Pedersen](https://iden3-docs.readthedocs.io/en/latest/iden3_repos/research/publications/zkproof-standards-workshop-2/pedersen-hash/pedersen.html) Hash and [Circom](https://docs.circom.io/) Circuit Compiler.
 
+![VortexProtocol](https://lw3cdn.learnweb3.io/hackathons/hookathon-c1/submissions/0288ead9-9208-49ae-acb0-df5832a17c94/dd15229b-cdf6-4109-b63b-9053437cd8a1)
+
 ---
 **Install**
 
